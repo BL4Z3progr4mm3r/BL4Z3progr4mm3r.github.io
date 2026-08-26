@@ -40,4 +40,4 @@ Esta política puede actualizarse si cambia el alcance o funcionamiento
 de la aplicación. La versión vigente siempre estará disponible en esta 
 misma URL.
 
-Made by:#BL4Z3progr4mm3r.github.io
+
