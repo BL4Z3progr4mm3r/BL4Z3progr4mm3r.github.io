@@ -1,6 +1,6 @@
 Política de Privacidad — Auto reels MASTVPRO
 
-Última actualización: [fecha]
+Última actualización: [12/9/2026]
 
 Esta aplicación ("Auto reels MASTVPRO") es una herramienta de uso interno 
 desarrollada para automatizar la publicación de contenido de video en la 
